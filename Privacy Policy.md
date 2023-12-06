@@ -1,60 +1,55 @@
-Privacy Policy
-Aatapi Wonderland built the Aatapi QMS app as a Commercial app. This SERVICE is provided by Aatapi Wonderland and is intended for use as is.
+Privacy Policy for Aatapi QMS
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+This Privacy Policy describes how Aatapi Wonderland collects, uses, and shares information when you use our mobile application Aatapi QMS.
+Information We Collect
+1. User-Provided Information
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+    Registration and Login Information: To access certain features of the App, users are required to create an account. During the registration process, we collect and store user-provided information, including usernames and passwords. Usernames and passwords are used for authentication purposes and are securely stored.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Aatapi QMS unless otherwise defined in this Privacy Policy.
+    Password Recovery: In the event that users forget their password, we use the provided email address to facilitate password recovery. Users will receive a password reset link or code via email.
 
-Information Collection and Use
+    Chat Feature: The App allows users to engage in chat conversations. We collect and store the content of these conversations, including photos taken with the camera, to facilitate communication within the app.
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Email address, Mobile Number. The information that we request will be retained by us and used as described in this privacy policy.
+    File Uploads: Users can upload files, including documents and images from the phone gallery, through the App. We collect and store these files to enable the intended functionality of the file upload feature.
 
-The app does use third-party services that may collect information used to identify you.
+2. Automatically Collected Information
 
-Link to the privacy policy of third-party service providers used by the app
+    Device Information: We collect information about the device you use to access the App, including device model, operating system, and unique device identifiers.
 
-Google Play Services
-Expo
-Log Data
+    Log Information: When you use the App, we automatically collect and store certain information in server logs, including but not limited to IP address, device event information, and usage data.
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+How We Use the Information
 
-Cookies
+We use the collected information for the following purposes:
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+    To provide, maintain, and improve the functionality of the App.
+    To facilitate user authentication and secure access to user accounts.
+    To enable password recovery through the use of email addresses.
+    To allow users to use the camera for taking photos within the chat feature.
+    To permit users to upload files, including images from the phone gallery, through the App.
+    To respond to user inquiries and support requests.
+    To monitor and analyze usage patterns and trends.
+    To comply with legal obligations.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Information Sharing
 
-Service Providers
+We do not share personal information with third parties except as described in this Privacy Policy or with user consent. We may share information in the following circumstances:
 
-We may employ third-party companies and individuals due to the following reasons:
-
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+    With service providers who assist us in operating the App.
+    In response to legal requests or to protect our rights, privacy, safety, or property.
+    In connection with a merger, acquisition, or sale of assets.
 
 Security
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+We take reasonable measures to protect the information we collect, including usernames, passwords, and email addresses. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
+Your Choices
 
-Links to Other Sites
-
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-Children’s Privacy
-
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
-
+Users can control the information shared within the App, including chat content and file uploads. Users may also manage their account information and contact us to inquire about the information collected.
 Changes to This Privacy Policy
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of 2023-12-06
-
+We may update this Privacy Policy to reflect changes in our practices or for other operational, legal, or regulatory reasons. Users will be notified of significant changes through the App or other means.
 Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at aatapiwondarland.manage@gmail.com.
+If you have any questions or concerns about this Privacy Policy, please contact us at aatapiwonderland.manage@gmail.com.
+
+This Privacy Policy was last updated on 06-12-2023.
